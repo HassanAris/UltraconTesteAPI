@@ -1,0 +1,6 @@
+@UltraconTesteAPI_HostAddress = http://localhost:5003
+
+GET {{UltraconTesteAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
